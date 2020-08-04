@@ -40,7 +40,6 @@ $ npm install
 $ npm start
 Access API at http://localhost:3000/
 
-
 # Install Dependencies
 $ npm install
 
@@ -51,9 +50,6 @@ Go to http://localhost:3000/ to see the result.
 Run Mobile Project
 To run the mobile project you need a cellphone with the app of expo instaled or a emulator android/ios.
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
-
-# Go to mobile folder
-$ cd Proffy/mobile
 
 # Install Dependencies
 $ npm install
